@@ -35,14 +35,6 @@ Develop an AI-based platform that autonomously manages the scheduling, routing, 
    - Maximize vehicle utilization by balancing commuter loads, reducing underutilized runs, and minimizing commuter wait times.
    - Reduce congestion and ensure equitable coverage across urban regions.
 
-### Benefits
-
-This AI-driven system will improve public transportation efficiency, reduce commuter frustration, and enhance operational flexibility for urban transit authorities. The benefits include:
-
-- **Reduced Delays:** Adjust schedules in real time to minimize commuter wait times.
-- **Increased Operational Efficiency:** Optimize route planning and vehicle usage to avoid overcrowding and under-utilization.
-- **Enhanced User Satisfaction:** A smoother, more predictable commute experience for public transport users.
-
 ## Key Features
 
 - **Real-Time Data Integration:** Incorporates traffic data, commuter density, and event information to make data-driven decisions.
@@ -51,9 +43,4 @@ This AI-driven system will improve public transportation efficiency, reduce comm
 - **Event Awareness:** Automatically adjusts based on both scheduled (e.g., concerts) and unexpected events (e.g., road closures).
 - **Optimization Engine:** Ensures optimal vehicle dispatching to balance demand and minimize commuter wait times.
 
-## Technical Requirements
 
-- **Data Sources**: Historical commuter data, live traffic feeds, GPS data, event schedules.
-- **AI/ML Techniques**: Time-series forecasting, reinforcement learning for dynamic scheduling, and route optimization algorithms.
-- **Integration**: Real-time API integration for traffic data and event notifications.
-- **UI**: A dashboard for transit authority operators to monitor system operations and make manual adjustments as needed.
