@@ -15,7 +15,7 @@ These inefficiencies impact both commuters and transportation authorities, neces
 
 ## Solution Overview
 
-### Goal
+### Deliverables
 
 Develop an AI-based platform that autonomously manages the scheduling, routing, and dispatching of public transportation vehicles (buses, trains, etc.) based on real-time data and predictive insights. The system should:
 
