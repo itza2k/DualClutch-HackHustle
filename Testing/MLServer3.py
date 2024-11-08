@@ -57,7 +57,7 @@ def predict_on_new_data():
 
         X_new = pd.get_dummies(X_new, columns=['Day', 'Hour'])
 
-        # Align columns with the model_columns (ensure they match)
+        #Alignment
         X_new = X_new.reindex(columns=model_columns, fill_value=0)
 
         # Handle missing values (fill NaNs with 0 or other suitable strategy)
