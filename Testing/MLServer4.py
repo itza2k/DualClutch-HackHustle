@@ -12,6 +12,11 @@ testFilename = os.path.join(dirname, 'boarders2test.csv')
 
 busCapacity = 30
 
+def findNoOfBuses(no, max):
+    return ((no // max)+1)
+
+
+
 def train_and_predict():
     # Load training data
     train_file_path = dataFilename
